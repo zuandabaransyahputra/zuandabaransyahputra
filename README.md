@@ -4,7 +4,7 @@
 
 I build fast, modern websites and web apps with React, Next.js, Astro and SvelteKit, from headless CMS builds to Stripe payments and AI-powered features. On the backend I work with Node.js and NestJS to ship the APIs and integrations behind them.
 
-🌐 **Portfolio and case studies:** [portfolio-zuanda.vercel.app]((https://zuanda.web.id/))
+🌐 **Portfolio and case studies:** [zuanda.web.id](https://zuanda.web.id/)
 
 ✅ **Currently open for new projects**
 
@@ -45,7 +45,7 @@ I build fast, modern websites and web apps with React, Next.js, Astro and Svelte
 | **TALD** | A marketplace connecting homeowners with vetted interior designers, architects and landscape professionals |
 | **Higher.id** | An Indonesian services marketplace with an AI assistant for finding and comparing trusted services |
 
-Case studies for each project are on my [portfolio]((https://zuanda.web.id/)).
+Case studies for each project are on my [portfolio](https://zuanda.web.id/).
 
 #### Get in touch
 

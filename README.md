@@ -5,6 +5,7 @@
 I build fast, modern websites and web apps with React, Next.js, Astro and SvelteKit, from headless CMS builds to Stripe payments and AI-powered features. On the backend I work with Node.js and NestJS to ship the APIs and integrations behind them.
 
 🌐 **Portfolio and case studies:** [portfolio-zuanda.vercel.app](https://portfolio-zuanda.vercel.app/)
+
 ✅ **Currently open for new projects**
 
 ---

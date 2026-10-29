@@ -5,7 +5,7 @@
 I build fast, modern websites and web apps with React, Next.js, Astro and SvelteKit, from headless CMS builds to Stripe payments and AI-powered features. On the backend I work with Node.js and NestJS to ship the APIs and integrations behind them.
 
 🌐 **Portfolio and case studies:** [zuanda.web.id](https://zuanda.web.id/)  
-🟢 **Currently open for new projects:** [start a project](https://zuanda.web.id/contact) · [Upwork](https://www.upwork.com/freelancers/zuandab3) (Top Rated Plus, 100% Job Success)
+🟢 **Currently open for new projects:** [start a project](https://zuanda.web.id/contact) · [Upwork](https://www.upwork.com/freelancers/~01c572cdc0382a06c6) (Top Rated Plus, 100% Job Success)
 
 ---
 
@@ -60,7 +60,7 @@ Case studies for each project are on my [portfolio](https://zuanda.web.id/works)
 #### Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://zuanda.web.id)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/zuandab3)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c572cdc0382a06c6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuanda-baransyah-putra/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6282277589814)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zuandabaransyahputra@gmail.com)

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'Archivo';src:url('archivo.woff2') format('woff2-variations');font-weight:100 900;font-stretch:62% 125%}
+:root{--ink:#14171F;--text2:#4A5160;--muted:#636A78;--rule:#D5D9DF;--accent:#C8174F;--paper:#F2F3F5;--card:#ffffff;--chip:#E6E9ED;--logo:#14171F;--logofg:#F2F3F5}
+body.dark{--ink:#F2F3F5;--text2:#B9BEC8;--muted:#8B92A0;--rule:#2B303B;--paper:#0D1117;--card:#161B22;--chip:#21262D;--logo:#F2F3F5;--logofg:#14171F}
+*{box-sizing:border-box;margin:0}
+html,body{width:1280px;height:400px;background:transparent}
+body{font-family:'Archivo',Arial,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased;padding:0}
+.card{width:1280px;height:400px;border-radius:28px;background:var(--paper);display:grid;grid-template-columns:1fr 300px;gap:48px;padding:44px 52px;overflow:hidden;position:relative}
+.left{display:flex;flex-direction:column;min-width:0}
+.brand{display:flex;align-items:center;gap:14px;font-size:20px;font-weight:650;font-stretch:118%}
+.logo{width:42px;height:42px;border-radius:11px;background:var(--logo);position:relative}
+.logo svg{position:absolute;inset:0}
+h1{margin-top:30px;font-size:58px;line-height:.98;font-weight:660;font-stretch:125%;letter-spacing:-.035em}
+h1 em{font-style:normal;color:var(--accent)}
+.role{margin-top:18px;font-size:21px;color:var(--text2);line-height:1.4;max-width:46ch}
+.chips{margin-top:auto;display:flex;flex-wrap:nowrap;gap:8px}
+.chips span{padding:8px 14px;border-radius:999px;background:var(--chip);font-size:14.5px;font-weight:600;white-space:nowrap}
+.chips span.dot{display:flex;align-items:center;gap:8px}
+.chips span.dot::before{content:'';width:8px;height:8px;border-radius:50%;background:#1f9d55}
+.right{position:relative;border-radius:22px;overflow:hidden;background:var(--chip)}
+.right img{width:100%;height:100%;object-fit:cover;object-position:50% 28%}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="left">
+    <div class="brand">
+      <span class="logo"><svg viewBox="0 0 64 64" width="42" height="42"><path d="M18 18h28v6L27.5 40H46v6H18v-6l18.5-16H18z" fill="var(--logofg)"/><circle cx="49" cy="15" r="4" fill="#c8174f"/></svg></span>
+      Zuanda Baransyah Putra
+    </div>
+    <h1>Frontends that stay fast<br>as your product grows<em>.</em></h1>
+    <p class="role">Freelance web developer in Banda Aceh, Indonesia, working remotely with founders and teams worldwide.</p>
+    <div class="chips">
+      <span class="dot">Open for new projects</span>
+      <span>Next.js · React · Astro</span>
+      <span>Headless CMS · Stripe · AI</span>
+      <span>Top Rated Plus on Upwork</span>
+    </div>
+  </div>
+  <div class="right"><img src="portrait.jpg" alt=""></div>
+</div>
+</body>
+</html>

@@ -35,6 +35,7 @@ I work remotely with founders and teams in **Australia, Switzerland and Indonesi
 | [**Wildsocks**](https://wildsocks.prebakedweb.ch) | Online shop for colourful organic-cotton socks from Switzerland | Astro + Odoo (GraphQL), Tailwind, shadcn/ui |
 | [**TALD**](https://zuanda.web.id/work/tald) | Marketplace connecting homeowners with vetted interior designers and architects | Frontend |
 | [**Higher.id**](https://zuanda.web.id/work/higher-id) | Indonesian services marketplace fronted by an AI assistant | Frontend |
+| [**Hendra Syah**](https://hendrasyah.com) | Creator storefront for digital products, online classes, events and consultations | Full-stack, Next.js with its own admin |
 | [**Madrasah Imam An-Nawawi**](https://zuanda.web.id/work/an-nawawi) | Website for a four-school Islamic foundation in Aceh | Full-stack, PostgreSQL on a VPS |
 
 More projects and full case studies: **[zuanda.web.id/works](https://zuanda.web.id/works)**

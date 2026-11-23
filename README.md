@@ -27,6 +27,8 @@ I work remotely with founders and teams in **Australia, Switzerland and Indonesi
 
 | Project | What it does |
 |---|---|
+| [**geo-audit**](https://github.com/zuandabaransyahputra/geo-audit) | Is your site ready for AI search? Free audit of AI crawler access, llms.txt, JSON-LD and SEO basics, with concrete fixes. Web + CLI. [Try it](https://geoaudit-tool.vercel.app) |
+| [**qris**](https://github.com/zuandabaransyahputra/qris) | Typed, zero-dependency TypeScript library for QRIS: parse, validate, and turn a static QRIS into a dynamic one with an amount. [Demo](https://qris-ts.vercel.app) |
 | [**astro-freelance-portfolio**](https://github.com/zuandabaransyahputra/astro-freelance-portfolio) | Astro portfolio template for freelance developers — motion, service pages with FAQ schema, llms.txt + JSON-LD, Resend contact form. [Live demo](https://astro-freelance-portfolio.vercel.app) |
 | [**shadcn-rtl**](https://github.com/zuandabaransyahputra/shadcn-rtl) | RTL- and Arabic-ready components for shadcn/ui, plus SAR/AED prices and Hijri dates, installable with the shadcn CLI. [Docs and demo](https://shadcn-rtl-ui.vercel.app) |
 | [**astro-geo**](https://github.com/zuandabaransyahputra/astro-geo) | Astro integration for SEO/GEO: generates llms.txt and llms-full.txt, with typed JSON-LD helpers. |
